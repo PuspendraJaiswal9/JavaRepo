@@ -3,5 +3,6 @@ public class Example {
         int a=10;
         int b=20;
         System.out.println("Sum of a and b "+(a+b));
+        System.out.println("Hello duniya...");
     }
 }
