@@ -4,5 +4,6 @@ public class Example {
         int b=20;
         System.out.println("Sum of a and b "+(a+b));
         System.out.println("Hello duniya...");
+        System.out.println("Learing git reset and git revert command.");
     }
 }
